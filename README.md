@@ -39,7 +39,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Project" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the 'burn'and 'mint'  function. Click on the "project" contract in the left-hand sidebar, and then click on the desired function. Finally, click on the "transact" button to execute the function and retrieve the output by providing token values a sinput.
+Once the contract is deployed, you can interact with it by calling the 'burn'and 'mint'  function. Click on the "project" contract in the left-hand sidebar, and then click on the desired function. Finally, click on the "transact" button to execute the function and retrieve the output by providing token values a input.
 
 # Authors
 @RazaRais
