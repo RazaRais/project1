@@ -1,4 +1,4 @@
-# TOKEN
+# TOKEN CONTRACT
 This Solidity program is a  program that demonstrates the basic syntax and functionality of the Solidity programming language. It is is a Solidity contract that implements a basic token contract with minting and burning functions
 # Description
 This program is a  contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. It is is a Solidity contract that implements a basic token contract with minting and burning functions.It defines a simple token contract with the ability to mint and burn tokens while keeping track of balances.
